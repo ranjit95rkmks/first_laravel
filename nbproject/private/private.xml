@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/resources/views/admin/includefiles/header.blade.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/resources/views/admin/includefiles/leftside.blade.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/resources/views/admin/master.blade.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/routes/web.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/database/migrations/2018_02_06_145654_test.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/resources/views/admin/dashboard/dashboard.blade.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/database/migrations/2018_02_06_064915_create_catagories_table.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/resources/views/admin/catagory/addCatagory.blade.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Http/Controllers/HomeController.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Catagory.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Http/Controllers/CatagoryController.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/E:/xampp7.1/htdocs/first_laravel/database/migrations/2014_10_12_000000_create_users_table.php</file>
+        </group>
+    </open-files>
+</project-private>
